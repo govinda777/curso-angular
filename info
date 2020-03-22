@@ -1,0 +1,62 @@
+instalação 
+	Nodejs
+	npm 
+	angular cli 
+	
+versão dos pacotes
+	node -v
+	npm -v
+	ng -v
+	
+ES6
+	var
+	let
+	const
+	arrow functions
+
+Estrutura angular
+	package.json
+	angular-cli.json (parametrizações do projeto de forma global)
+	
+	comandos essenciais
+	
+	"start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+
+Webpack
+	site https://webpack.js.org/
+	objetivo : junta os arquivos e transforma-los em um só
+	browser : index.html é ingetado em tempo de execução
+	
+Componente
+	pequenas partes logicas que podem ser reutilizadas 
+	decoraitor injeta informações na sua classe
+	criar um componente na mão
+	criar um componente via ng generate component
+
+Instalação de dependencias
+	como instalar : npm install bootstrap
+	adicionar referencia no arquivo .angular-cli.json
+	
+Data binding
+	one-way-databinding
+	mostrar exemplos {{}}
+	event binding (click)="function()"
+	one-way-binding vs two-way-binding.
+	@Input
+
+Diretivas
+	ngFor, ngIf
+	
+lifecycke hooks
+	lifecycke hooks
+	
+Data binding
+	@Output
+
+	
+	
+	
